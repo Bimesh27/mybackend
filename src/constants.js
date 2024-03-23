@@ -1,1 +1,1 @@
-export const DB_NAME = 'westBackend'
+export const DB_NAME = "secondTry"
